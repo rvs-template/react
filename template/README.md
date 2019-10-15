@@ -1,2 +1,3 @@
-# react
+# react starter
+
 react spa template

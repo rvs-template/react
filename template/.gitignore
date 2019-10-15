@@ -1,0 +1,10 @@
+.DS_Store
+dist/
+dll/
+coverage/
+node_modules/
+*.log
+.idea
+.code
+*.sw*
+*.un~
